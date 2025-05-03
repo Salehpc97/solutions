@@ -1,0 +1,11 @@
+#first{
+background-color: hsl(120, 14%, 5%);
+color: white;
+}
+#second{
+background-color: #faea06;
+}
+#first,#second.size{
+font-size: 28px;
+font-family: Helvetica, "Times New Roman", sans-serif;
+}
